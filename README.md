@@ -1,6 +1,6 @@
 ## Golang Loops  
 
-Project Name: Learning Loops
+Project Name: Countdown - Blastoff
 
 Project: Golang 5 
 
